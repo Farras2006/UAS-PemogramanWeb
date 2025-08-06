@@ -1,0 +1,32 @@
+
+body {
+
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+.container {
+    background-color: rgba(241, 239, 235, 0.021); 
+    border-radius: 15px;
+    padding: 25px;
+    margin: 30px auto;
+    box-shadow: 0 0 15px rgba(241, 149, 10, 0.904)
+}
+
+h1, h2, h3, h4, h6, h7 {
+    color: #1bb5f1bb;
+}
+
+pre {
+    background-color: rgba(65, 209, 173, 0.7);
+    padding: 15px;
+    border-radius: 5px;
+
+
+
+
+
+
+
+
+
+
+
